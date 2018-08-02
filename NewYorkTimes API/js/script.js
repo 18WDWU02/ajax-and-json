@@ -5,7 +5,7 @@ function giveval(){
 
     var url = "https://api.nytimes.com/svc/search/v2/articlesearch.json";
     url += '?' + $.param({
-        'api-key': "ec76b165acac4983b13004f88e84de13",
+        'api-key': "",
         'q': city
     });
 
