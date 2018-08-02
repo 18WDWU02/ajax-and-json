@@ -1,0 +1,13 @@
+*{
+	margin: 50px;
+
+}
+
+#form-div{
+	background-color: black;
+	color:white;
+}
+#disp-list{
+	background-color: grey;
+	color:black;
+}
